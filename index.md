@@ -4,6 +4,7 @@
 
 ## 周赛目录
 
+- [Nowcoder Weekly Round 152](./round-152.md)
 - [Nowcoder Weekly Round 151](./round-151.md)
 
 ## Notice
