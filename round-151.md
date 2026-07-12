@@ -1,6 +1,6 @@
-# ac.nowcoder.com - 牛客周赛 Round 151
 
-## A. 运动会
+
+# A. 运动会
 
 题目链接：https://ac.nowcoder.com/acm/contest/137267/A
 
