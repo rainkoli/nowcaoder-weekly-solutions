@@ -10,7 +10,7 @@ Java、算法、题解与编程竞赛学习记录。
 ## Algorithm notes
 
 - [ACM-ICPC / OI 常考知识点体系](./notes/algorithms/acm-knowledge-system.md)
-- [Prime number](./notes/algorithms/prime number.md)
+- [Prime number](./notes/algorithms/prime-number.md)
 
 ## Contest records
 
